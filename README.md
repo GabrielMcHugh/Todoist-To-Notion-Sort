@@ -1,2 +1,2 @@
 # Todoist-To-Notion-Sort
-An integration between Todoist and Notion that will automatically sort inbox entries into notion tables
+Sorts new Todoist entries and sends ones with relevant tags to relevant Notion table
