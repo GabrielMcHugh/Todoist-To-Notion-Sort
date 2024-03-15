@@ -57,7 +57,7 @@ namespace Todoist.Net
 
             if (string.IsNullOrEmpty(resource))
             {
-                throw new ArgumentException("Vallue cannot be null or empty.", nameof(resource));
+                throw new ArgumentException("Value cannot be null or empty.", nameof(resource));
             }
 
             using (var content = new FormUrlEncodedContent(parameters))
